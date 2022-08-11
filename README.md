@@ -8,9 +8,15 @@ and YOLOv4 pretained model.
 4. YOLOv4
 5. OpenCV
 
+# Result
+https://user-images.githubusercontent.com/56351584/184121717-fc0acd43-bba2-42fc-91bb-0d755872a08a.mp4
+
 # Pre-labeled Dataset from Kaggle (obj.zip)
 https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet
 # GitHub link for Darknet
 https://github.com/AlexeyAB/darknet
 # Complete Video Tutorial
 https://fb.watch/eLO-asQ3Q9/
+
+
+
