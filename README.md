@@ -9,7 +9,7 @@ and YOLOv4 pretained model.
 5. OpenCV
 
 # Result
-https://user-images.githubusercontent.com/56351584/184121717-fc0acd43-bba2-42fc-91bb-0d755872a08a.mp4
+![Face Mask Detection](https://user-images.githubusercontent.com/56351584/184122666-311e734f-33d0-46b2-84af-2a8e6e8babfc.png)
 
 # Pre-labeled Dataset from Kaggle (obj.zip)
 https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet
@@ -17,6 +17,9 @@ https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet
 https://github.com/AlexeyAB/darknet
 # Complete Video Tutorial
 https://fb.watch/eLO-asQ3Q9/
+
+
+
 
 
 
